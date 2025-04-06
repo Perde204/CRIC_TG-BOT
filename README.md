@@ -1,6 +1,6 @@
 Description of the bot: Hello! I have created a Telegram bot that helps users learn programming by offering interesting learning tasks. 
 My bot can process commands, provide help, and even respond to incorrect messages. 
-This is a great assistant for anyone who wants to improve their programming skills.
+This is a great assistant for anyone who wants to improve their programming skills.I use Python 3.13
 Libraries used:
 asyncio: Provides asynchronous programming for smooth operation of the bot.
 logging: It keeps an event log to monitor the bot's work processes.
@@ -18,5 +18,6 @@ Command /task: Generates a random programming task from a pre-prepared list.
 Message processing: If the user enters an incorrect query, the bot offers to use the /help command.
 Bot operation: My bot is running on an asynchronous platform, which allows it to respond to user requests without delay.
 I have set it up so that it is simple, useful and convenient for those who study programming.
-![image](https://github.com/user-attachments/assets/a922e6c1-6ba2-4cab-a1dd-1ed319724f33)
+![image](https://github.com/user-attachments/assets/4aee1303-a5d8-4123-8bac-8bfa0f0c8e05)
+
 
